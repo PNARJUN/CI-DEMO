@@ -19,6 +19,10 @@ public class TestDemo {
 		System.out.println("Test3 started");
 	}
 
+	@Test
+	public void test4() {
+		System.out.println("Test4 started");
+	}
 
 
 }
